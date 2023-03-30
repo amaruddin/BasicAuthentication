@@ -1,0 +1,15 @@
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.csproj.AssemblyReference.cache
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.GeneratedMSBuildEditorConfig.editorconfig
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.AssemblyInfoInputs.cache
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.AssemblyInfo.cs
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.csproj.CoreCompileInputs.cache
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\bin\Debug\net6.0\BasicAuth.exe
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\bin\Debug\net6.0\BasicAuth.deps.json
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\bin\Debug\net6.0\BasicAuth.runtimeconfig.json
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\bin\Debug\net6.0\BasicAuth.dll
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\bin\Debug\net6.0\BasicAuth.pdb
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.dll
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\refint\BasicAuth.dll
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.pdb
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\BasicAuth.genruntimeconfig.cache
+F:\FSD DTS\DTS_latihan\BasicAuth\BasicAuth\obj\Debug\net6.0\ref\BasicAuth.dll
